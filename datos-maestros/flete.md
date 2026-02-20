@@ -42,3 +42,7 @@ Una vez creado el registro, podrá completar información adicional como:
 > 📷 Captura de pantalla: Vista de detalle del flete con el formulario completo de información logística y del transportista.
 
 Estos datos permiten que el flete quede correctamente vinculado con la empresa y que se pueda utilizar en la gestión de envíos, documentación aduanera y reportes.
+
+---
+
+**Relacionado:** [Contratos](../ingreso/contratos.md)

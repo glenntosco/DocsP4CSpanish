@@ -15,3 +15,7 @@ En este apartado se visualizan únicamente las órdenes cuyo proceso de recepci�
 ## Cómo Aparecen las Órdenes
 
 Una orden aparece en la sección Historia una vez que el proceso de recepción ha sido completado en el módulo Entrada de P4 Warehouse. Esto proporciona un registro de auditoría claro de toda la mercancía que ha sido oficialmente recibida en el almacén aduanero.
+
+---
+
+**Siguiente:** [Facturas](../egreso/facturas.md) · **Volver:** [Contratos](contratos.md)

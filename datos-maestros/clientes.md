@@ -45,5 +45,9 @@ Una vez creado el cliente:
 > 📷 Captura de pantalla: Vista de detalle del cliente con todos los campos de información de contacto y datos administrativos.
 
 {% hint style="info" %}
-Se recomienda ingresar la mayor información posible del cliente para generar documentos sin errores y facilitar la entrega correcta de la mercancía.
+Se recomienda ingresar la mayor cantidad de información posible del cliente para generar documentos sin errores y facilitar la entrega correcta de la mercancía.
 {% endhint %}
+
+---
+
+**Relacionado:** [Importadores](importadores.md) · [Facturas](../egreso/facturas.md)

@@ -11,7 +11,7 @@ Para crear un nuevo importador:
 1. Ingrese al menú **Datos Maestros**.
 2. Seleccione la opción **Importadores**.
 3. Haga clic en **Nuevo**.
-4. Agregue el nombre y el nombre de la empresa.
+4. Agregue el nombre del contacto y el nombre de la empresa.
 5. Verifique que la información sea correcta.
 6. Haga clic en **Guardar** para registrar el importador.
 
@@ -38,3 +38,7 @@ Los importadores registrados en P4 Customs se reflejan automáticamente en **P4 
 **Configuración → 3PL**
 
 Esta integración garantiza que todos los registros de importadoras estén disponibles en ambos sistemas sin necesidad de ingresar los datos dos veces.
+
+---
+
+**Relacionado:** [Almacenes](almacenes.md) · [Clientes](clientes.md) · [Contratos](../ingreso/contratos.md)

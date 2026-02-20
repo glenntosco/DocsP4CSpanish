@@ -31,3 +31,7 @@ Una vez creado el registro del almacén:
 ## Importante
 
 Es importante completar **todos los datos solicitados**, ya que permiten contar con más información sobre la empresa y facilitan una mejor gestión dentro del sistema.
+
+---
+
+**Relacionado:** [Importadores](importadores.md) · [Contratos](../ingreso/contratos.md)

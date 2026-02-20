@@ -46,3 +46,7 @@ Cada producto registrado en la Lista de Productos debe incluir información comp
 > 📷 Captura de pantalla: Vista de detalle del producto con los campos de atributos, dimensiones, imágenes y categoría.
 
 Registrar todos estos elementos asegura que cada producto tenga identidad clara y única dentro del sistema, y reduce errores en los procesos comerciales y logísticos.
+
+---
+
+**Relacionado:** [Contratos](../ingreso/contratos.md)

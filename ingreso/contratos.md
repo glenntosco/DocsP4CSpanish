@@ -96,3 +96,7 @@ Una vez aprobado el contrato, diríjase a **P4 Warehouse** para iniciar la recep
 4. Inicie el proceso de recepción.
 
 > 📷 Captura de pantalla: Módulo Entrada de P4 Warehouse mostrando la lista de Órdenes de Compra con la orden vinculada.
+
+---
+
+**Siguiente:** [Historia – Órdenes de Compra Recibidas](historia.md) · **Luego:** [Facturas](../egreso/facturas.md)
